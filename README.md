@@ -1,4 +1,4 @@
-program link: https://wselimzade.github.io/MyTasks/
+program link: https://ismailselimzade.github.io/MyTasks
 
 This web application is designed for you to save your tasks in a simple way.
 The design of the program was developed based on the example developed by the user named 
